@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Sidebar from "./components/sidebar";
 import Reviews from "./components/reviews";
