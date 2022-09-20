@@ -7,7 +7,7 @@ import Visitors from "./components/web-visitors";
 
 function App() {
   return (
-    <div>
+    <div className="dashboard">
       <Sidebar/>
       <Reviews/>
       <Rating/>
