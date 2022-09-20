@@ -14,7 +14,7 @@
 .box{
   width: 600px;
   height: 300px;
-  background-color: purple;
+  background-color: lightgray;
   margin: auto;
 }
 
@@ -24,7 +24,9 @@
   padding: 10px;
 }
 
-
+.top{
+  margin-top: 200px;
+}
 
 .sentiment{
   text-align: center;
